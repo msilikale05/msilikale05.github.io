@@ -237,8 +237,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 	line-height: 28px;
 }
 #team-page p{
-	line-height: 20px;
 	font-size: 14px;
+	line-height: 20px;
 }
 #bloc-6 .navbar-brand{
 	font-family: "Open Sans";
@@ -246,8 +246,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 30px;
 }
 #about-page p{
-	font-size: 14px;
-	line-height: 20px;
+	line-height: 28px;
+	font-size: 20px;
 }
 
 /* = NavBar
@@ -549,9 +549,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bgc-black{
 	background-color:#000000;
-}
-.bgc-celestial-blue{
-	background-color:#4BA3D6;
 }
 
 /* Text colour styles */
